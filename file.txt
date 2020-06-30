@@ -1,0 +1,4 @@
+mysql> botee
+    -> notee
+    -> \c
+mysql> notee
